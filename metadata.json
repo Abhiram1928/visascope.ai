@@ -1,0 +1,7 @@
+{
+  "name": "VisaScope AI",
+  "description": "An intelligent visa status prediction and processing time estimator using Gemini AI to provide data-driven insights for travelers and immigrants.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
